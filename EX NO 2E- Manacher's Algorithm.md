@@ -1,6 +1,6 @@
 
 # EX 2E Pattern Matching using Manacher's Algorithm.
-## DATE : 13-09-2026
+## DATE: 30-07-2026
 
 ## AIM:
 To write a Java program for the following constraints.
