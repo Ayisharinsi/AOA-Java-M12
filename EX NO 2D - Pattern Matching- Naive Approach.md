@@ -1,5 +1,5 @@
 # EX 2D Pattern Matching using Naive Approach.
-## DATE : 13-09-2026
+## DATE: 30-07-2026
 
 ## AIM:
 To write a Java program to for given constraints.
